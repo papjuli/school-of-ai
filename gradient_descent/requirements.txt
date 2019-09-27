@@ -1,0 +1,5 @@
+jupyter
+numpy
+sklearn
+plotly
+chart_studio
